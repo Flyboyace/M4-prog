@@ -13,3 +13,7 @@ https://github.com/Flyboyace/M4-prog/blob/main/score%20en%20munten%20script
 Opdracht 2 Bewegende speler
 
 ![Bewegende speler](https://github.com/user-attachments/assets/092c719b-9a54-470e-99a8-a965f6cdf3aa)
+
+hieronder het script 
+
+https://github.com/Flyboyace/M4-prog/blob/main/Bewegende%20speler
