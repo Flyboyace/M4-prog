@@ -19,3 +19,17 @@ Opdracht 2 Bewegende speler
 hieronder het script 
 
 https://github.com/Flyboyace/M4-prog/blob/main/Bewegende%20speler
+
+
+
+
+Opdracht 3 Timed muntjacht
+
+![Timed Muntjacht](https://github.com/user-attachments/assets/9916d616-2535-4712-a2ab-5d19a376c547)
+
+hieronder het script
+
+https://github.com/Flyboyace/M4-prog/blob/main/Script
+
+
+
