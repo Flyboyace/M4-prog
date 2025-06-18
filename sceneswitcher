@@ -1,0 +1,15 @@
+using NUnit.Framework;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.SceneManagement;
+
+public class sceneswitch : MonoBehaviour
+{
+    void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            SceneManager.LoadScene("Gamescene");
+        }
+    }
+}
