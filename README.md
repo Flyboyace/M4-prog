@@ -33,3 +33,17 @@ https://github.com/Flyboyace/M4-prog/blob/main/Script
 
 
 
+
+Opdracht 4 Start en spel
+
+![Start en spel](https://github.com/user-attachments/assets/9d398854-64b3-48e1-ab2b-e05216ed8ebb)
+
+hieronder de scripts
+
+
+
+
+
+
+
+
