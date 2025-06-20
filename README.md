@@ -51,9 +51,13 @@ https://github.com/Flyboyace/M4-prog/blob/main/sceneswitcher
 
 Opdracht 5 gestructureerde muntenjager
 
+![Gestructureerde muntenjager](https://github.com/user-attachments/assets/fe792d83-2498-42a2-a66e-e24069539309)
+
 Hieronder de scripts 
 
 https://github.com/Flyboyace/M4-prog/blob/main/Scoremanager
+
+https://github.com/Flyboyace/M4-prog/blob/main/Playermove
 
 
 
