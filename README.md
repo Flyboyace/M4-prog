@@ -38,6 +38,8 @@ Opdracht 4 Start en spel
 
 ![Start en spel](https://github.com/user-attachments/assets/9d398854-64b3-48e1-ab2b-e05216ed8ebb)
 
+sceneswitcher script zorgt ervoor dat ik van scenes kan switchen als ik op spacebar druk
+
 hieronder de scripts
 
 https://github.com/Flyboyace/M4-prog/blob/main/playercontroller
