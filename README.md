@@ -61,6 +61,17 @@ https://github.com/Flyboyace/M4-prog/blob/main/Playermove
 
 
 
+Opdracht 6 Volger
+
+![Volger](https://github.com/user-attachments/assets/34dc024a-b4ab-4aba-84b9-60c63c507f24)
+
+Hieronder de scripts
+
+
+
+
+
+
 
 
 
